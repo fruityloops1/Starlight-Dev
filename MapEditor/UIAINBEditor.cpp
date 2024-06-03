@@ -17,6 +17,7 @@
 #include <functional>
 #include <iostream>
 #include <unordered_map>
+#include <cmath>
 
 #define MinImmTextboxWidth 150
 
